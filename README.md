@@ -1,2 +1,2 @@
 # learn-python
-my very first python code
+practice python
